@@ -14,3 +14,8 @@
 # 4. Detects and Blocks Remote File Inclusion
 # 5. Detects and Blocks Server Side Includes
 # 6. Prevents DDOS attacks by redirecting the attacker to another address and consuming their bandwidth drastically and making them face trouble.
+![Screenshot](lfiblock.png)
+![Screenshot](rfiblock.png)
+![Screenshot](sqliblock.png)
+![Screenshot](ssiblock.png)
+![Screenshot](xssblock.png)
