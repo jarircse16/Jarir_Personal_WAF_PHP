@@ -1,5 +1,6 @@
 # Jarir_Personal_WAF_PHP
-# A PHP Web Application Firewall
+# A PHP Web Application Firewall.
+# Scroll down to see screenshots.
 
 # Useage:
 # 1. Copy the all files to the folder where your config.php is in.
