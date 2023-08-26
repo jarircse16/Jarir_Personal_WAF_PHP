@@ -20,3 +20,6 @@
 ![Screenshot](sqliblock.PNG)
 ![Screenshot](ssiblock.PNG)
 ![Screenshot](xssblock.PNG)
+# 7. For Zip Password Contact me at: jarircse16@gmail.com
+# 8. HTTP 402 Payment Required
+# 9. If you are good at something, never do it for free.
